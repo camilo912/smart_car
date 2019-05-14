@@ -1,0 +1,6 @@
+tensorflow
+sklearn
+opencv-python
+matplotlib
+requests
+psutil

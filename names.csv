@@ -1,0 +1,6 @@
+forward_left,0
+forward,1
+forward_right,2
+backward_left,3
+backward,4
+backward_right,5
